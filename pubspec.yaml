@@ -1,0 +1,4 @@
+name: nodedart
+
+environment:
+  sdk: ^3.4.0

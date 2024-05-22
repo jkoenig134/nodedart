@@ -1,0 +1,9 @@
+# FVM Version Cache
+.fvm/
+
+# dart stuff
+.dart_tool/
+
+# dart2wasm output
+lib/*.wasm
+lib/*.mjs
